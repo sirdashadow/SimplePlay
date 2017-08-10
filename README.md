@@ -25,6 +25,8 @@ It is currently running on a Raspberry Pi 2 OC to 1GHZ (don't worry, temperature
   
   Raspbian OS.
   
+  Lighttpd
+    
   PHP 5.x with SqlLite enabled.
   
   VLC
